@@ -1,5 +1,5 @@
-from vi_n2w.w2n.data import tens_words, units
-from vi_n2w.w2n.utils.base import Numbers
+from Vin2w.w2n.data import tens_words, units
+from Vin2w.w2n.utils.base import Numbers
 
 
 class NumbersOfTens(Numbers):

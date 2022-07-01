@@ -1,7 +1,7 @@
-from vi_n2w.w2n.couple import process_couple
-from vi_n2w.w2n.large_number import process_large_number
-from vi_n2w.w2n.single import process_single
-from vi_n2w.w2n.utils.base import pre_process_w2n
+from Vin2w.w2n.couple import process_couple
+from Vin2w.w2n.large_number import process_large_number
+from Vin2w.w2n.single import process_single
+from Vin2w.w2n.utils.base import pre_process_w2n
 
 
 def w2n(number_sentence):

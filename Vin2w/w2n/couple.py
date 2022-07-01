@@ -1,6 +1,6 @@
-from vi_n2w.w2n.data import tens_words
-from vi_n2w.w2n.single import process_single
-from vi_n2w.w2n.tens import process_tens
+from Vin2w.w2n.data import tens_words
+from Vin2w.w2n.single import process_single
+from Vin2w.w2n.tens import process_tens
 
 
 def pre_process_couple(words: list):

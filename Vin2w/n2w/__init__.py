@@ -1,6 +1,6 @@
-from vi_n2w.n2w.large_number import n2w_large_number
-from vi_n2w.n2w.single import process_n2w_single
-from vi_n2w.n2w.utils.base import pre_process_n2w
+from Vin2w.n2w.large_number import n2w_large_number
+from Vin2w.n2w.single import process_n2w_single
+from Vin2w.n2w.utils.base import pre_process_n2w
 
 
 def n2w(number: str):

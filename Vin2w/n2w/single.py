@@ -1,4 +1,4 @@
-from vi_n2w.n2w.data import units
+from Vin2w.n2w.data import units
 
 
 def process_n2w_single(numbers: str):

@@ -14,7 +14,7 @@ except Exception:
 # TOP-LEVEL MODULES
 ###########################################################
 
-from vi_n2w.w2n import w2n
-from vi_n2w.n2w import n2w
+from Vin2w.w2n import w2n
+from Vin2w.n2w import n2w
 
 __all__ = ['w2n', 'n2w']

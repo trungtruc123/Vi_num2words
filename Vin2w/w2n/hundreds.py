@@ -1,6 +1,6 @@
-from vi_n2w.w2n.tens import process_tens
-from vi_n2w.w2n.units import process_units
-from vi_n2w.w2n.utils.hundreds import NumbersOfHundreds
+from Vin2w.w2n.tens import process_tens
+from Vin2w.w2n.units import process_units
+from Vin2w.w2n.utils.hundreds import NumbersOfHundreds
 
 
 def pre_process_hundreds(words: list) -> NumbersOfHundreds:

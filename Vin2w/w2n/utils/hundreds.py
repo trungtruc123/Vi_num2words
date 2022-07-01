@@ -1,5 +1,5 @@
-from vi_n2w.w2n.data import hundreds_words, tens_words
-from vi_n2w.w2n.utils.base import Numbers
+from Vin2w.w2n.data import hundreds_words, tens_words
+from Vin2w.w2n.utils.base import Numbers
 
 
 class NumbersOfHundreds(Numbers):

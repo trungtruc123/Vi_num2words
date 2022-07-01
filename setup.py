@@ -1,7 +1,7 @@
 import setuptools
 
 setuptools.setup(
-    name="vi_n2w",
+    name="Vin2w",
     version="0.0.1",
     author="Tran Trung Truc",
     author_email="tieuthu.anninh@gmail.com",

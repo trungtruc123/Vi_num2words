@@ -1,6 +1,6 @@
-from vi_n2w.w2n.data import hundreds_words, special_word
-from vi_n2w.w2n.hundreds import process_hundreds
-from vi_n2w.w2n.utils.large_number import LargeNumber
+from Vin2w.w2n.data import hundreds_words, special_word
+from Vin2w.w2n.hundreds import process_hundreds
+from Vin2w.w2n.utils.large_number import LargeNumber
 
 
 def pre_process_large_number(words: list) -> LargeNumber:
