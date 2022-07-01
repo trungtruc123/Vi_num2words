@@ -1,4 +1,4 @@
-from core.n2w.data import units
+from vi_n2w.n2w.data import units
 
 
 def chunks(lst, n):

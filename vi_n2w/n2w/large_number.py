@@ -1,5 +1,5 @@
-from core.n2w.hundreds import n2w_hundreds
-from core.n2w.utils.base import chunks
+from vi_n2w.n2w.hundreds import n2w_hundreds
+from vi_n2w.n2w.utils.base import chunks
 
 
 def n2w_large_number(numbers: str):

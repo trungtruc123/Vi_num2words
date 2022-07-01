@@ -1,4 +1,4 @@
-from core.n2w.data import units
+from vi_n2w.n2w.data import units
 
 
 def n2w_units(numbers: str):

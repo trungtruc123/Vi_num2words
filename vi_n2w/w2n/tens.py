@@ -1,5 +1,5 @@
-from core.w2n.units import process_units
-from core.w2n.utils.tens import NumbersOfTens
+from vi_n2w.w2n.units import process_units
+from vi_n2w.w2n.utils.tens import NumbersOfTens
 
 
 def pre_process_tens(words: list) -> NumbersOfTens:

@@ -1,5 +1,5 @@
-from core.n2w.data import units
-from core.n2w.units import n2w_units
+from vi_n2w.n2w.data import units
+from vi_n2w.n2w.units import n2w_units
 
 
 def n2w_hundreds(numbers: str):

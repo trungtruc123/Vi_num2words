@@ -1,5 +1,5 @@
-from core.w2n.data import word_multiplier
-from core.w2n.units import process_units
+from vi_n2w.w2n.data import word_multiplier
+from vi_n2w.w2n.units import process_units
 
 
 def pre_process_single(words: list):

@@ -1,5 +1,5 @@
-from core.w2n.data import billion_words, million_words, thousand_words, units
-from core.w2n.utils.base import Numbers
+from vi_n2w.w2n.data import billion_words, million_words, thousand_words, units
+from vi_n2w.w2n.utils.base import Numbers
 
 
 class LargeNumber(Numbers):

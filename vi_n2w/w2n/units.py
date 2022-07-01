@@ -1,4 +1,4 @@
-from core.w2n.data import units
+from vi_n2w.w2n.data import units
 
 
 def process_units(words: list):

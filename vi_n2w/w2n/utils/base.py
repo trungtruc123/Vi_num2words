@@ -1,4 +1,4 @@
-from core.w2n.data import (
+from vi_n2w.w2n.data import (
     billion_words,
     hundreds_words,
     million_words,
